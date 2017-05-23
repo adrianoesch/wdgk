@@ -1,4 +1,4 @@
-#What Does Google Know
+# What Does Google Know
 
 "What does Google know" (WDGK) reads the zip file from the Google take out and shows some stats from your personal data. All this is happening locally on your computer. Therefore, full privacy is guaranteed.
 
