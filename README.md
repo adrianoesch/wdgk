@@ -5,4 +5,4 @@
 Go to [WDGK](https://adrianoesch.github.io/wdgk/index.html) to check it out!
 
 ## Outline
-So far I'm planning to do stats on the browser history and location history, but I'd love to add features over time. Feel free to contribute your analysis.
+So far I've only developed some graphs on the browser activity. I'm planning to do more analyses with the browser history and focus next on the location history. Feel free to contribute your analysis.
